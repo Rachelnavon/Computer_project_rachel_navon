@@ -186,7 +186,7 @@ def fit_linear(filename):
     plt.xlabel(x_axis)
     #plt.show()
     plt.savefig("linear_fit.SVG")
-    return
+    
 
 
 
@@ -195,4 +195,4 @@ def fit_linear(filename):
 
 
 
-fit_linear("input_3")
+#fit_linear("")
